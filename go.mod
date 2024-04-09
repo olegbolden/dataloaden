@@ -1,4 +1,4 @@
-module github.com/vektah/dataloaden
+module github.com/olegbolden/dataloaden
 
 go 1.16
 
